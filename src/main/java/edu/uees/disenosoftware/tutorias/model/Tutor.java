@@ -1,3 +1,5 @@
+package edu.uees.disenosoftware.tutorias.model;
+
 public class Tutor extends Usuario {
 
     private String especialidad;

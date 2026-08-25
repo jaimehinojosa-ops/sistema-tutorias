@@ -1,3 +1,5 @@
+package edu.uees.disenosoftware.tutorias.model;
+
 public class Estudiante extends Usuario {
 
     private String matricula;
